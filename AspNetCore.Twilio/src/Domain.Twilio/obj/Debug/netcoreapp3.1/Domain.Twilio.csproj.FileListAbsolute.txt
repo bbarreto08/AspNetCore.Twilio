@@ -1,0 +1,9 @@
+D:\GitPessoal\AspNetCore.Twilio\AspNetCore.Twilio\src\Domain.Twilio\bin\Debug\netcoreapp3.1\Domain.Twilio.deps.json
+D:\GitPessoal\AspNetCore.Twilio\AspNetCore.Twilio\src\Domain.Twilio\bin\Debug\netcoreapp3.1\Domain.Twilio.dll
+D:\GitPessoal\AspNetCore.Twilio\AspNetCore.Twilio\src\Domain.Twilio\bin\Debug\netcoreapp3.1\Domain.Twilio.pdb
+D:\GitPessoal\AspNetCore.Twilio\AspNetCore.Twilio\src\Domain.Twilio\obj\Debug\netcoreapp3.1\Domain.Twilio.csprojAssemblyReference.cache
+D:\GitPessoal\AspNetCore.Twilio\AspNetCore.Twilio\src\Domain.Twilio\obj\Debug\netcoreapp3.1\Domain.Twilio.AssemblyInfoInputs.cache
+D:\GitPessoal\AspNetCore.Twilio\AspNetCore.Twilio\src\Domain.Twilio\obj\Debug\netcoreapp3.1\Domain.Twilio.AssemblyInfo.cs
+D:\GitPessoal\AspNetCore.Twilio\AspNetCore.Twilio\src\Domain.Twilio\obj\Debug\netcoreapp3.1\Domain.Twilio.csproj.CoreCompileInputs.cache
+D:\GitPessoal\AspNetCore.Twilio\AspNetCore.Twilio\src\Domain.Twilio\obj\Debug\netcoreapp3.1\Domain.Twilio.dll
+D:\GitPessoal\AspNetCore.Twilio\AspNetCore.Twilio\src\Domain.Twilio\obj\Debug\netcoreapp3.1\Domain.Twilio.pdb
